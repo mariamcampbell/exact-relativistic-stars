@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Reconstructing exact relativistic star solutions GitHub
+  repository
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - family-names: Campbell
+    email: mariam.campbell09@gmail.com
+    name-particle: Mariam
+    affiliation: University of Cape Town
+    orcid: 'https://orcid.org/0000-0002-7318-3966'
+identifiers:
+  - type: doi
+    value: 10.1088/1361-6382/adc8f2
+    description: >-
+      Mariam Campbell et al 2025 Class. Quantum Grav. 42
+      085014
+repository-code: 'https://github.com/mariamcampbell/exact-relativistic-stars'
+abstract: >-
+  A github repository containing the Mathematica notebooks
+  and python files that calculates and plots new exact
+  solutions to relativistic stars for quadratic theories of
+  gravity in a fully covariant framework.
+keywords:
+  - TOV-equations
+  - modified-gravity
+  - exact-solutions
+date-released: '2025-05-15'
